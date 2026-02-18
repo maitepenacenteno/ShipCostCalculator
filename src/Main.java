@@ -22,7 +22,5 @@ public class Main{
             System.out.println("The cost of the shipping is: $" + shipping);
             System.out.println("The total price is: $" + totalPrice);
         }
-
-
     }
 }
